@@ -1,0 +1,27 @@
+.quesTable {
+    background-color: lightgoldenrodyellow;
+    border: 1px solid black;
+    width: 90%
+}
+
+th, td {
+    text-align: center;
+    border: 1px solid black
+}
+
+.quesRow {
+    height: 32px
+}
+
+.modal-content {
+    width: 1000px;
+    margin-left: -212px;
+}
+
+.Questions {
+    text-align: -webkit-center;
+}
+
+.linkdata, .bodydata {
+    word-break: normal;
+}
